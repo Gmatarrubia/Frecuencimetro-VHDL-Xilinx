@@ -5,7 +5,9 @@ Frecuencimetro-VHDL-Xilinx
 
 /////unfinished/////
 
+
 -----(Español)-----
+
 Este repositorio contiene los diseños y testbench del proyecto "frecuencimetro digital" en VHDL
 
 El funcionamiento básico consiste en analizar un tren de pulsos que entran en un fpga
