@@ -1,7 +1,7 @@
 Frecuencimetro-VHDL-Xilinx
 ==========================
 
-///EN CONSTRUCIÓN////
+///EN CONSTRUCION////
 
 /////unfinished/////
 
@@ -10,8 +10,8 @@ Frecuencimetro-VHDL-Xilinx
 
 Este repositorio contiene los diseños y testbench del proyecto "frecuencimetro digital" en VHDL
 
-El funcionamiento básico consiste en analizar un tren de pulsos que entran en un fpga
-y ésta debe mostrar en pantalla la frecuencia que tienen dicho tren de pulsos.
+El funcionamiento basico consiste en analizar un tren de pulsos que entran en un fpga
+y esta debe mostrar en pantalla la frecuencia que tienen dicho tren de pulsos.
 
 
 -----(English)-----
