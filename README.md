@@ -13,6 +13,7 @@ Este repositorio contiene los diseños y testbench del proyecto "frecuencimetro 
 El funcionamiento basico consiste en analizar un tren de pulsos que entran en un fpga
 y esta debe mostrar en pantalla la frecuencia que tienen dicho tren de pulsos.
 kk
+Ángel
 
 -----(English)-----
 
