@@ -30,14 +30,28 @@ use IEEE.STD_LOGIC_1164.ALL;
 --use UNISIM.VComponents.all;
 
 entity RelojEscalado is
+	 Generic(escalaHz: positive:=5000); --5000 ciclos de reloj
     Port ( clk : in  STD_LOGIC;
            ms_signal : out  STD_LOGIC);
 end RelojEscalado;
 
 architecture Behavioral of RelojEscalado is
-
+	signal outsig: STD_LOGIC;
 begin
-
-
+	p1:Process(clk)
+	variable cuenta: positive;
+		begin
+		while true loop
+			cuenta:=escalaHz;
+			while cuenta>0 loop
+			if clk'event and clk='1' then
+				cuenta:=cuenta-1;
+			end if;
+				outsig<='1' when '0' else
+						<='0' when others;
+			end loop;
+		end loop;
+	end process;
+	ms_signal<=outsig;
 end Behavioral;
 

@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/AngelLM/Documents/Frecuencimetro-VHDL-Xilinx/Frecuencimentro/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/AngelLM/Documents/Frecuencimetro-VHDL-Xilinx/Frecuencimentro/xst"
+elaborate
+-ifn RelojEscalado.prj
+-ifmt mixed
