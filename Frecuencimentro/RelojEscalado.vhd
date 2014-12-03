@@ -47,8 +47,11 @@ begin
 			if clk'event and clk='1' then
 				cuenta:=cuenta-1;
 			end if;
-				outsig<='1' when '0' else
-						<='0' when others;
+			if cuenta=0 then
+			outsig<= '1';
+			else
+			outsig<= '0';
+			end if;
 			end loop;
 		end loop;
 	end process;
