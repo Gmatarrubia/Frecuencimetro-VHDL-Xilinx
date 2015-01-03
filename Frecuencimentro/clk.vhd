@@ -1,15 +1,15 @@
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
  
-entity clk_mod is
+entity clk200Hz is
     Port (
         entrada: in  STD_LOGIC;
         reset  : in  STD_LOGIC;
         salida : out STD_LOGIC
     );
-end clk_mod;
+end clk200Hz;
  
-architecture Behavioral of clk_mod is
+architecture Behavioral of clk200Hz is
     signal temporal: STD_LOGIC;
     signal contador: integer range 0 to 124999 := 0;
 begin
@@ -18,7 +18,7 @@ begin
             temporal <= '0';
             contador <= 0;
         elsif rising_edge(entrada) then
-            if (contador = 10) then
+            if (contador = 124999) then
                 temporal <= NOT(temporal);
                 contador <= 0;
             else
