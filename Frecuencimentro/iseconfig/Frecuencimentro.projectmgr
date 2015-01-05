@@ -9,13 +9,13 @@
          <ClosedNodesVersion>2</ClosedNodesVersion>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>RelojEscalado - Behavioral (C:/Users/Angel LM/Documents/Frecuencimetro-VHDL-Xilinx/Frecuencimentro/RelojEscalado.vhd)</SelectedItem>
+         <SelectedItem>clk_mod - Behavioral (E:/ISE/Trabajo/Frecuencimetro/Frecuencimentro/RelojEscalado.vhd)</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000013e000000020000000000000000000000000200000064ffffffff0000008100000003000000020000013e0000000100000003000000000000000100000003</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000012d000000020000000000000000000000000200000064ffffffff0000008100000003000000020000012d0000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>RelojEscalado - Behavioral (C:/Users/Angel LM/Documents/Frecuencimetro-VHDL-Xilinx/Frecuencimentro/RelojEscalado.vhd)</CurrentItem>
+      <CurrentItem>clk_mod - Behavioral (E:/ISE/Trabajo/Frecuencimetro/Frecuencimentro/RelojEscalado.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -38,9 +38,9 @@
       <SelectedItems/>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000002b3000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000001e70000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000003a3000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000002d70000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem></CurrentItem>
+      <CurrentItem>clkTB.vhd</CurrentItem>
    </ItemView>
    <ItemView guiview="Library" >
       <ClosedNodes>
@@ -79,13 +79,13 @@
          <ClosedNodesVersion>2</ClosedNodesVersion>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>clkTB - behavior (C:/Users/Angel LM/Documents/Frecuencimetro-VHDL-Xilinx/Frecuencimentro/clkTB.vhd)</SelectedItem>
+         <SelectedItem>clkTB - behavior (E:/ISE/Trabajo/Frecuencimetro/Frecuencimentro/clkTB.vhd)</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000014e000000020000000000000000000000000200000064ffffffff0000008100000003000000020000014e0000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem>clkTB - behavior (C:/Users/Angel LM/Documents/Frecuencimetro-VHDL-Xilinx/Frecuencimentro/clkTB.vhd)</CurrentItem>
+      <CurrentItem>clkTB - behavior (E:/ISE/Trabajo/Frecuencimetro/Frecuencimentro/clkTB.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
       <ClosedNodes>
