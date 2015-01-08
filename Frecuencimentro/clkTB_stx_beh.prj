@@ -1,0 +1,2 @@
+vhdl isim_temp "RelojEscalado.vhd"
+vhdl isim_temp "clkTB.vhd"

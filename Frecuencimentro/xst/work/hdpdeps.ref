@@ -1,0 +1,13 @@
+V3 6
+FL E:/ISE/Trabajo/Frecuencimentro/ContadorEventos.vhd 2015/01/07.13:08:04 P.20131013
+EN work/ContadorEventos 1420634628 \
+      FL E:/ISE/Trabajo/Frecuencimentro/ContadorEventos.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/ContadorEventos/behavioral 1420634629 \
+      FL E:/ISE/Trabajo/Frecuencimentro/ContadorEventos.vhd \
+      EN work/ContadorEventos 1420634628
+FL E:/ISE/Trabajo/Frecuencimentro/RelojEscalado.vhd 2015/01/07.13:37:58 P.20131013
+EN work/clk_mod 1420634315 FL E:/ISE/Trabajo/Frecuencimentro/RelojEscalado.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/clk_mod/Behavioral 1420634316 \
+      FL E:/ISE/Trabajo/Frecuencimentro/RelojEscalado.vhd EN work/clk_mod 1420634315

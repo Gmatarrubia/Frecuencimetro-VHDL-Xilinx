@@ -1,0 +1,2 @@
+vhdl work "ContadorEventos.vhd"
+vhdl work "ContadorEventos_tb.vhd"

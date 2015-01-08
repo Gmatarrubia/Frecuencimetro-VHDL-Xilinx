@@ -1,0 +1,2 @@
+vhdl isim_temp "ContadorEventos.vhd"
+vhdl isim_temp "ContadorEventos_tb.vhd"
