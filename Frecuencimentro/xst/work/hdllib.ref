@@ -1,4 +1,22 @@
-EN contadoreventos NULL E:/ISE/Trabajo/Frecuencimentro/ContadorEventos.vhd sub00/vhpl02 1420634628
-EN clk_mod NULL E:/ISE/Trabajo/Frecuencimentro/RelojEscalado.vhd sub00/vhpl00 1420634315
-AR contadoreventos behavioral E:/ISE/Trabajo/Frecuencimentro/ContadorEventos.vhd sub00/vhpl03 1420634629
-AR clk_mod behavioral E:/ISE/Trabajo/Frecuencimentro/RelojEscalado.vhd sub00/vhpl01 1420634316
+EN countevents NULL "D:/Descargas/Frecuencimentro - Presentacion/CountEvents.vhd" sub00/vhpl04 1436382013
+EN counteventsdown NULL "D:/Descargas/Frecuencimentro - Presentacion/CountEventsDown.vhd" sub00/vhpl08 1436382009
+AR countevents behavioral "D:/Descargas/Frecuencimentro - Presentacion/CountEvents.vhd" sub00/vhpl05 1436382014
+EN clk_mod NULL "D:/Descargas/Frecuencimentro - Presentacion/clk_mod.vhd" sub00/vhpl06 1436382007
+EN escaladoprepresentacion NULL "D:/Descargas/Frecuencimentro - Presentacion/EscaladoPrePresentacion.vhd" sub00/vhpl12 1436382015
+AR top1 behavioral "D:/Frecuenciometro 10.0/frecuencimentro/top1.vhd" sub00/vhpl17 1436211391
+AR topsegm behavioral D:/Descargas/sed/topsegm.vhd sub00/vhpl19 1436380298
+EN bcd_g NULL "D:/Descargas/Frecuencimentro - Presentacion/conversor_bin_to_bcd_grande.vhd" sub00/vhpl02 1436382005
+EN divisor NULL "D:/Descargas/Frecuencimentro - Presentacion/Divisor.vhd" sub00/vhpl10 1436382011
+AR divisor behavioral "D:/Descargas/Frecuencimentro - Presentacion/Divisor.vhd" sub00/vhpl11 1436382012
+EN top NULL "D:/Descargas/Frecuencimentro - Presentacion/top.vhd" sub00/vhpl20 1436382019
+AR clk_mod behavioral "D:/Descargas/Frecuencimentro - Presentacion/clk_mod.vhd" sub00/vhpl07 1436382008
+AR escaladoprepresentacion behavioral "D:/Descargas/Frecuencimentro - Presentacion/EscaladoPrePresentacion.vhd" sub00/vhpl13 1436382016
+EN top1 NULL "D:/Frecuenciometro 10.0/frecuencimentro/top1.vhd" sub00/vhpl16 1436211390
+AR decoder dataflow "D:/Descargas/Frecuencimentro - Presentacion/Decodificador.vhd" sub00/vhpl01 1436382004
+AR bcd_g behavioral "D:/Descargas/Frecuencimentro - Presentacion/conversor_bin_to_bcd_grande.vhd" sub00/vhpl03 1436382006
+EN decoder NULL "D:/Descargas/Frecuencimentro - Presentacion/Decodificador.vhd" sub00/vhpl00 1436382003
+AR controladorsegmentos behavioral "D:/Descargas/Frecuencimentro - Presentacion/ControladorSegmentos.vhd" sub00/vhpl15 1436382018
+EN controladorsegmentos NULL "D:/Descargas/Frecuencimentro - Presentacion/ControladorSegmentos.vhd" sub00/vhpl14 1436382017
+AR top behavioral "D:/Descargas/Frecuencimentro - Presentacion/top.vhd" sub00/vhpl21 1436382020
+EN topsegm NULL D:/Descargas/sed/topsegm.vhd sub00/vhpl18 1436380297
+AR counteventsdown behavioral "D:/Descargas/Frecuencimentro - Presentacion/CountEventsDown.vhd" sub00/vhpl09 1436382010

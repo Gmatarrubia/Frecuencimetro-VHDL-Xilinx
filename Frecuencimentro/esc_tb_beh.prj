@@ -1,0 +1,3 @@
+vhdl work "conversor_bin_to_bcd_grande.vhd"
+vhdl work "EscaladoPrePresentacion.vhd"
+vhdl work "esc_tb.vhd"

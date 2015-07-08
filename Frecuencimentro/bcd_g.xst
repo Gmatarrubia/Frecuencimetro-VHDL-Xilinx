@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/sed/Documents/1/Frecuenciometro 10.0/frecuencimentro/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/sed/Documents/1/Frecuenciometro 10.0/frecuencimentro/xst"
+elaborate
+-ifn bcd_g.prj
+-ifmt mixed

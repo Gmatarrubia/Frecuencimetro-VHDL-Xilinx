@@ -1,0 +1,5 @@
+set -tmpdir "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/xst/projnav.tmp"
+set -xsthdpdir "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/xst"
+elaborate
+-ifn CountEvents.prj
+-ifmt mixed

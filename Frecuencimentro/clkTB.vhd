@@ -1,36 +1,14 @@
---------------------------------------------------------------------------------
--- Company: 
--- Engineer:
---
--- Create Date:   18:17:53 12/31/2014
--- Design Name:   
--- Module Name:   C:/Users/Angel LM/Documents/Frecuencimetro-VHDL-Xilinx/Frecuencimentro/clkTB.vhd
--- Project Name:  Frecuencimentro
--- Target Device:  
--- Tool versions:  
--- Description:   
--- 
--- VHDL Test Bench Created by ISE for module: clk200Hz
--- 
--- Dependencies:
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
---
--- Notes: 
--- This testbench has been automatically generated using types std_logic and
--- std_logic_vector for the ports of the unit under test.  Xilinx recommends
--- that these types always be used for the top-level I/O of a design in order
--- to guarantee that the testbench will bind correctly to the post-implementation 
--- simulation model.
---------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+-- Project Name: Frecuency Counter 
+-- Target Devices: Spartan 3
+-- Engineers: Ángel Larrañaga Muro
+-- 			 Nicolás Jurado Jiménez
+-- 			 Gonzalo Matarrubia Gonzalez
+-- License: All files included in this proyect are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License 
+----------------------------------------------------------------------------------
+
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
- 
--- Uncomment the following library declaration if using
--- arithmetic functions with Signed or Unsigned values
---USE ieee.numeric_std.ALL;
  
 ENTITY clkTB IS
 END clkTB;

@@ -1,13 +1,125 @@
-V3 6
-FL E:/ISE/Trabajo/Frecuencimentro/ContadorEventos.vhd 2015/01/07.13:08:04 P.20131013
-EN work/ContadorEventos 1420634628 \
-      FL E:/ISE/Trabajo/Frecuencimentro/ContadorEventos.vhd \
-      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
-AR work/ContadorEventos/behavioral 1420634629 \
-      FL E:/ISE/Trabajo/Frecuencimentro/ContadorEventos.vhd \
-      EN work/ContadorEventos 1420634628
-FL E:/ISE/Trabajo/Frecuencimentro/RelojEscalado.vhd 2015/01/07.13:37:58 P.20131013
-EN work/clk_mod 1420634315 FL E:/ISE/Trabajo/Frecuencimentro/RelojEscalado.vhd \
+V3 84
+FL "C:/Users/sed/Documents/1/Frecuenciometro 10.0/frecuencimentro/clk_mod.vhd" 2015/07/07.13:56:12 P.20131013
+FL "C:/Users/sed/Documents/1/Frecuenciometro 10.0/frecuencimentro/ControladorSegmentos.vhd" 2015/06/08.11:23:12 P.20131013
+FL "C:/Users/sed/Documents/1/Frecuenciometro 10.0/frecuencimentro/conversor_bin_to_bcd_grande.vhd" 2015/07/07.13:40:14 P.20131013
+FL "C:/Users/sed/Documents/1/Frecuenciometro 10.0/frecuencimentro/CountEvents.vhd" 2015/07/07.15:45:19 P.20131013
+FL "C:/Users/sed/Documents/1/Frecuenciometro 10.0/frecuencimentro/CountEventsDown.vhd" 2015/07/07.14:15:04 P.20131013
+FL "C:/Users/sed/Documents/1/Frecuenciometro 10.0/frecuencimentro/Decodificador.vhd" 2015/06/08.11:23:12 P.20131013
+FL "C:/Users/sed/Documents/1/Frecuenciometro 10.0/frecuencimentro/Divisor.vhd" 2015/07/07.15:46:20 P.20131013
+FL "C:/Users/sed/Documents/1/Frecuenciometro 10.0/frecuencimentro/EscaladoPrePresentacion.vhd" 2015/07/07.13:21:15 P.20131013
+FL C:/Users/sed/Downloads/sed/topsegm.vhd 2015/07/07.15:44:42 P.20131013
+FL "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/clk_mod.vhd" 2015/07/08.20:31:08 P.20131013
+FL "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/ControladorSegmentos.vhd" 2015/06/08.11:23:12 P.20131013
+FL "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/conversor_bin_to_bcd_grande.vhd" 2015/07/07.13:40:16 P.20131013
+FL "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/CountEvents.vhd" 2015/07/08.19:36:42 P.20131013
+FL "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/CountEventsDown.vhd" 2015/07/08.20:31:16 P.20131013
+FL "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/Decodificador.vhd" 2015/06/08.11:23:12 P.20131013
+FL "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/Divisor.vhd" 2015/07/08.19:15:56 P.20131013
+FL "D:/Descargas/1 y ultimo/Frecuenciometro ultimo/frecuencimentro/EscaladoPrePresentacion.vhd" 2015/07/07.13:21:16 P.20131013
+FL "D:/Descargas/Frecuencimentro - Presentacion/clk_mod.vhd" 2015/07/08.20:44:34 P.20131013
+EN work/clk_mod 1436382007 \
+      FL "D:/Descargas/Frecuencimentro - Presentacion/clk_mod.vhd" \
       PB ieee/std_logic_1164 1381692176
-AR work/clk_mod/Behavioral 1420634316 \
-      FL E:/ISE/Trabajo/Frecuencimentro/RelojEscalado.vhd EN work/clk_mod 1420634315
+AR work/clk_mod/Behavioral 1436382008 \
+      FL "D:/Descargas/Frecuencimentro - Presentacion/clk_mod.vhd" \
+      EN work/clk_mod 1436382007
+FL "D:/Descargas/Frecuencimentro - Presentacion/ControladorSegmentos.vhd" 2015/07/08.20:44:36 P.20131013
+EN work/ControladorSegmentos 1436382017 \
+      FL "D:/Descargas/Frecuencimentro - Presentacion/ControladorSegmentos.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ControladorSegmentos/Behavioral 1436382018 \
+      FL "D:/Descargas/Frecuencimentro - Presentacion/ControladorSegmentos.vhd" \
+      EN work/ControladorSegmentos 1436382017 CP decoder
+FL "D:/Descargas/Frecuencimentro - Presentacion/conversor_bin_to_bcd_grande.vhd" 2015/07/08.20:44:36 P.20131013
+EN work/bcd_g 1436382005 \
+      FL "D:/Descargas/Frecuencimentro - Presentacion/conversor_bin_to_bcd_grande.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181 PB ieee/std_logic_arith 1381692177
+AR work/bcd_g/Behavioral 1436382006 \
+      FL "D:/Descargas/Frecuencimentro - Presentacion/conversor_bin_to_bcd_grande.vhd" \
+      EN work/bcd_g 1436382005
+FL "D:/Descargas/Frecuencimentro - Presentacion/CountEvents.vhd" 2015/07/08.20:44:34 P.20131013
+EN work/CountEvents 1436382013 \
+      FL "D:/Descargas/Frecuencimentro - Presentacion/CountEvents.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/CountEvents/Behavioral 1436382014 \
+      FL "D:/Descargas/Frecuencimentro - Presentacion/CountEvents.vhd" \
+      EN work/CountEvents 1436382013
+FL "D:/Descargas/Frecuencimentro - Presentacion/CountEventsDown.vhd" 2015/07/08.20:50:28 P.20131013
+EN work/CountEventsDown 1436382009 \
+      FL "D:/Descargas/Frecuencimentro - Presentacion/CountEventsDown.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/CountEventsDown/Behavioral 1436382010 \
+      FL "D:/Descargas/Frecuencimentro - Presentacion/CountEventsDown.vhd" \
+      EN work/CountEventsDown 1436382009
+FL "D:/Descargas/Frecuencimentro - Presentacion/Decodificador.vhd" 2015/07/08.20:44:36 P.20131013
+EN work/decoder 1436382003 \
+      FL "D:/Descargas/Frecuencimentro - Presentacion/Decodificador.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/decoder/dataflow 1436382004 \
+      FL "D:/Descargas/Frecuencimentro - Presentacion/Decodificador.vhd" \
+      EN work/decoder 1436382003
+FL "D:/Descargas/Frecuencimentro - Presentacion/Divisor.vhd" 2015/07/08.20:44:34 P.20131013
+EN work/Divisor 1436382011 \
+      FL "D:/Descargas/Frecuencimentro - Presentacion/Divisor.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Divisor/Behavioral 1436382012 \
+      FL "D:/Descargas/Frecuencimentro - Presentacion/Divisor.vhd" \
+      EN work/Divisor 1436382011
+FL "D:/Descargas/Frecuencimentro - Presentacion/EscaladoPrePresentacion.vhd" 2015/07/08.20:44:36 P.20131013
+EN work/EscaladoPrePresentacion 1436382015 \
+      FL "D:/Descargas/Frecuencimentro - Presentacion/EscaladoPrePresentacion.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/EscaladoPrePresentacion/Behavioral 1436382016 \
+      FL "D:/Descargas/Frecuencimentro - Presentacion/EscaladoPrePresentacion.vhd" \
+      EN work/EscaladoPrePresentacion 1436382015 CP bcd_g
+FL "D:/Descargas/Frecuencimentro - Presentacion/top.vhd" 2015/07/08.20:53:36 P.20131013
+EN work/top 1436382019 FL "D:/Descargas/Frecuencimentro - Presentacion/top.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/top/Behavioral 1436382020 \
+      FL "D:/Descargas/Frecuencimentro - Presentacion/top.vhd" EN work/top 1436382019 \
+      CP clk_mod CP CountEventsDown CP Divisor CP CountEvents \
+      CP EscaladoPrePresentacion CP ControladorSegmentos
+FL D:/Descargas/sed/topsegm.vhd 2015/07/08.20:07:44 P.20131013
+EN work/topsegm 1436380297 FL D:/Descargas/sed/topsegm.vhd PB ieee/std_logic_1164 1381692176
+AR work/topsegm/Behavioral 1436380298 \
+      FL D:/Descargas/sed/topsegm.vhd EN work/topsegm 1436380297 CP clk_mod \
+      CP CountEventsDown CP Divisor CP CountEvents CP EscaladoPrePresentacion \
+      CP ControladorSegmentos
+FL "D:/Frecuenciometro 10.0/frecuencimentro/clk_mod.vhd" 2015/01/21.22:49:44 P.20131013
+FL "D:/Frecuenciometro 10.0/frecuencimentro/ControladorSegmentos.vhd" 2015/06/08.11:23:12 P.20131013
+FL "D:/Frecuenciometro 10.0/frecuencimentro/conversor_bin_to_bcd_grande.vhd" 2015/07/06.21:12:14 P.20131013
+FL "D:/Frecuenciometro 10.0/frecuencimentro/CountEvents.vhd" 2015/01/20.20:43:52 P.20131013
+FL "D:/Frecuenciometro 10.0/frecuencimentro/CountEventsDown.vhd" 2015/01/21.22:49:44 P.20131013
+FL "D:/Frecuenciometro 10.0/frecuencimentro/Decodificador.vhd" 2015/06/08.11:23:12 P.20131013
+FL "D:/Frecuenciometro 10.0/frecuencimentro/Divisor.vhd" 2015/01/21.22:09:56 P.20131013
+FL "D:/Frecuenciometro 10.0/frecuencimentro/EscaladoPrePresentacion.vhd" 2015/01/21.22:49:44 P.20131013
+FL "D:/Frecuenciometro 10.0/frecuencimentro/top1.vhd" 2015/01/22.20:28:24 P.20131013
+EN work/top1 1436211390 FL "D:/Frecuenciometro 10.0/frecuencimentro/top1.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/top1/Behavioral 1436211391 \
+      FL "D:/Frecuenciometro 10.0/frecuencimentro/top1.vhd" EN work/top1 1436211390 \
+      CP CountEvents CP clk_mod CP CountEventsDown CP Divisor \
+      CP EscaladoPrePresentacion CP ControladorSegmentos
+FL "M:/ISE/Frecuenciometro 10.0 (definitiva)/frecuencimentro/clk_mod.vhd" 2015/01/21.21:49:44 P.20131013
+FL "M:/ISE/Frecuenciometro 10.0 (definitiva)/frecuencimentro/ControladorSegmentos.vhd" 2015/06/08.11:23:10 P.20131013
+FL "M:/ISE/Frecuenciometro 10.0 (definitiva)/frecuencimentro/conversor_bin_to_bcd_grande.vhd" 2015/01/20.20:05:52 P.20131013
+FL "M:/ISE/Frecuenciometro 10.0 (definitiva)/frecuencimentro/CountEvents.vhd" 2015/01/20.19:43:52 P.20131013
+FL "M:/ISE/Frecuenciometro 10.0 (definitiva)/frecuencimentro/CountEventsDown.vhd" 2015/01/21.21:49:44 P.20131013
+FL "M:/ISE/Frecuenciometro 10.0 (definitiva)/frecuencimentro/Decodificador.vhd" 2015/06/08.11:23:10 P.20131013
+FL "M:/ISE/Frecuenciometro 10.0 (definitiva)/frecuencimentro/Divisor.vhd" 2015/01/21.21:09:56 P.20131013
+FL "M:/ISE/Frecuenciometro 10.0 (definitiva)/frecuencimentro/EscaladoPrePresentacion.vhd" 2015/01/21.21:49:44 P.20131013
+FL "M:/ISE/Frecuenciometro 10.0 (definitiva)/frecuencimentro/top1.vhd" 2015/01/22.19:28:23 P.20131013
+FL "M:/ISE/Frecuenciometro 10.0/frecuencimentro/clk_mod.vhd" 2015/01/21.21:49:44 P.20131013
+FL "M:/ISE/Frecuenciometro 10.0/frecuencimentro/ControladorSegmentos.vhd" 2015/06/08.11:23:10 P.20131013
+FL "M:/ISE/Frecuenciometro 10.0/frecuencimentro/conversor_bin_to_bcd_grande.vhd" 2015/06/26.00:58:44 P.20131013
+FL "M:/ISE/Frecuenciometro 10.0/frecuencimentro/CountEvents.vhd" 2015/01/20.19:43:52 P.20131013
+FL "M:/ISE/Frecuenciometro 10.0/frecuencimentro/CountEventsDown.vhd" 2015/01/21.21:49:44 P.20131013
+FL "M:/ISE/Frecuenciometro 10.0/frecuencimentro/Decodificador.vhd" 2015/06/08.11:23:10 P.20131013
+FL "M:/ISE/Frecuenciometro 10.0/frecuencimentro/Divisor.vhd" 2015/01/21.21:09:56 P.20131013
+FL "M:/ISE/Frecuenciometro 10.0/frecuencimentro/EscaladoPrePresentacion.vhd" 2015/01/21.21:49:44 P.20131013
+FL "M:/ISE/Frecuenciometro 10.0/frecuencimentro/top1.vhd" 2015/01/22.19:28:23 P.20131013
