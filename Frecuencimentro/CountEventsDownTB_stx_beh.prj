@@ -1,0 +1,2 @@
+vhdl isim_temp "CountEventsDown.vhd"
+vhdl isim_temp "CountEventsDownTB.vhd"

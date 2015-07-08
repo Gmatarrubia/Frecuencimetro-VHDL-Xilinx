@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "D:/Descargas/Frecuencimentro - Presentacion/top.xst" -ofn "D:/Descargas/Frecuencimentro - Presentacion/top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top.ucf -p xc3s200-ft256-5 "top.ngc" top.ngd  
+map -intstyle ise -p xc3s200-ft256-5 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
+map -intstyle ise -p xc3s200-ft256-5 -cm area -ir off -pr off -c 100 -o top_map.ncd top.ngd top.pcf 
